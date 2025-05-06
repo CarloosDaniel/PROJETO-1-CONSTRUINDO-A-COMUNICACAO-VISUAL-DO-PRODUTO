@@ -25,3 +25,10 @@ Projeto feito em dupla: Ray Santiago e Carlos Daniel
 | **Inter**   | Leve, alta legibilidade em telas | Textos corridos       | Ótima leitura em interfaces digitais e tamanhos pequenos. |
 
 > Ambas fontes são do Google Fonts e são ideais para interfaces modernas e funcionais.
+
+---
+
+## 🖼️ Elementos Visuais
+
+> Logotipo com o nome "TeamFlow", ícone minimalista representando equipe e colaboração. Cores aplicadas da paleta oficial.
+> Ícone, em fundo roxo violeta, para simbolizar equipes.
